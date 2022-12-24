@@ -1,6 +1,6 @@
-My name is Ryan Weaver
+Hello, my name is Christopher (Ryan) Weaver
 
-I am currently a student at Clemson University studying Computer Science
+I am a senior at Clemson University studying Computer Science
 
 <!---
 ryan-weaverr/ryan-weaverr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
